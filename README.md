@@ -1,4 +1,4 @@
-# 220Task
+# 220Volt feladat
 Az applikációba neveket lehet beírni, melyeket kilistáz gyakoriság szerint két táblázatba. Az első táblázat az elmúlt 1 napban beírt neveket állítja gyakoriság szerint csökkenő sorrendbe, míg a második táblázat az elmúlt 1 hétben beírt neveket állítja gyakoriság szerint csökkenő sorrendbe.
 
 Ahhoz, hogy a név bekerüljön a listába bizonyos validációknak kell megfelelnie.
